@@ -1,2 +1,3 @@
-print('Hey World!')
-print('Stromtoppper')
+for i in range(0,10):
+	print('Hey World!')
+
