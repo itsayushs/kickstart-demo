@@ -1,6 +1,6 @@
 
 import sys
-a = 10
+a = 11
 try:
  if a == 10:
     print('test passed')
