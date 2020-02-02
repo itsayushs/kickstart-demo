@@ -1,5 +1,5 @@
-name = input("Name: ")
-time = input("Time Am/Pm: ")
+name = 'ayush' 
+time = 'am'
 if time == 'am':
     print('good morning! '+name)
 else:
